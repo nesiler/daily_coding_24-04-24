@@ -1,3 +1,3 @@
-## Günlük Problemler (23.04)
+## Günlük Problemler (25.04)
 
 Başla butonuna tıklayarak talimatlarla probleme başlayabilirsiniz.

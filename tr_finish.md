@@ -1,4 +1,4 @@
-## Günlük Problemler Tamamlandı (23.04)
+## Günlük Problemler Tamamlandı (25.04)
 
 Problemi tamamladınız. 👏🏻
 Profil sayfasına dönmek ve oturumu kapatmak için sonlandır butonuna basınız.
