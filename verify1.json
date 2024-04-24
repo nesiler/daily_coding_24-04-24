@@ -1,0 +1,7 @@
+{
+    "command": [
+      "sh",
+      "-c",
+      "ls | grep  -qi  '.go' || exit 1"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "command": [
+      "sh",
+      "-c",
+      "cat kitap_verileri.txt | grep  -qi  '.jpg' || exit 1"
+    ]
+  }
+  
