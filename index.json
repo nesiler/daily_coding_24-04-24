@@ -4,10 +4,6 @@
             {
                 "text": "step1.md",
                 "verify": "verify1.json"
-            },
-            {
-                "text": "step2.md",
-                "verify": "verify2.json"
             }
         ],
         "intro": {

@@ -2,6 +2,6 @@
     "command": [
       "sh",
       "-c",
-      "ls | grep  -qi  '.go' || exit 1"
+      "cat kitap_verileri.txt | grep  -qi  '.jpg' || exit 1"
     ]
 }
